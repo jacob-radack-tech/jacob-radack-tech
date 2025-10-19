@@ -3,7 +3,6 @@
 <p align="left">
   <samp> I'm a Backend Engineer, recently completed a training program at Alterra Academy as a highly-skilled Backend Engineer with expertise in Golang and a strong foundation in software development. There, I gained extensive knowledge in Go, Git, GitHub, MySQL, REST API, and AWS programming. With a proven track record of developing web applications using technologies such as MySQL and Redis, I have a deep understanding of RESTful API design. I can also implement the principles of Clean Architecture as a working standard in projects. My technical skills include advanced problem-solving, algorithms, and data structures. Currently, looking for a position as a Software Developer or Backend Developer (Golang).
   </samp>
-</p>
 
 ## Tech Stack:
 
@@ -24,6 +23,7 @@
   
 ## You Can Find Me on:
   
-<div align="left"> 
+<div align="left">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-radack-5ba7b838a)
 </div>
