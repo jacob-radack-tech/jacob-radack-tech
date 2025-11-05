@@ -25,5 +25,5 @@
   
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-radack-5ba7b838a)
+[![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-radack-7493a1391/)
 </div>
