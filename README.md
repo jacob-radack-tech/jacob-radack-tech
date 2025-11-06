@@ -21,9 +21,3 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-red.svg?style=for-the-badge&logo=redis&logoColor=white)
   
-## You Can Find Me on:
-  
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-royalblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-radack-7493a1391/)
-</div>
